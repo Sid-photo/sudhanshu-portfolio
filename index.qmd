@@ -1,0 +1,73 @@
+---
+title: "Sudhanshu Mehta – MBA Portfolio"
+format: html
+page-layout: full
+---
+
+![Professional Headshot](headshot.jpg)
+
+# 👋 About Me
+
+I’m **Sudhanshu Mehta**, an MBA candidate at **University Canada West** with over a decade of experience as a globally recognized photographer. My work has taken me across continents, capturing stories through visual narratives. But beyond the lens, I’ve always been drawn to the business side of storytelling—how creativity meets strategy.
+
+Now, I’m channeling that passion into business transformation. My goal is to bridge art and analytics by leveraging **AI**, **digital tools**, and **entrepreneurial thinking** to drive innovation and sustainable value.
+
+---
+
+# 🎓 Education
+
+- **MBA Candidate**, University Canada West, Vancouver  
+  *Focus: AI in Business, Digital Transformation*  
+  *Expected Completion: 2025*
+
+- **Bachelor of Commerce**, Delhi University  
+  *Graduated with Honours*
+
+- **AI Fundamentals Certificate**, IBM  
+  *Earned: 2024*
+
+---
+
+# 💼 Professional Experience
+
+**Founder & Creative Director**  
+*Sudhanshu Mehta Photography (2012–2023)*  
+- Built and scaled a luxury photography brand recognized internationally.  
+- Delivered over 200+ commercial, fashion, and editorial campaigns.  
+- Awarded for excellence in visual storytelling across 12 countries.
+
+**Freelance Business Strategist**  
+- Consulted boutique brands on digital visibility, campaign planning, and creative strategy.  
+- Integrated photography with marketing insights for greater business impact.
+
+---
+
+# 🚀 Projects & Ventures
+
+**AI for Real Estate Lead Generation (2025)**  
+Co-founded a Vancouver-based startup using **predictive AI** to score and qualify leads for Canadian realtors.  
+Tools: Python, GPT-4, Google Colab, Zapier
+
+**Netflix Ad Strategy Report (2025)**  
+Developed a marketing framework to introduce **ad-supported streaming** while retaining viewer engagement.  
+Focus: Consumer segmentation, ethical AI, and LLM-based ad optimization.
+
+---
+
+# 🛠️ Skills & Strengths
+
+- **Technical Tools**: Excel, Google Colab, Tableau, Quarto, Python (beginner)  
+- **Business Skills**: Leadership, Digital Strategy, Creative Thinking, Team Management  
+- **Core Strengths**: Adaptability, Empathy, Strategic Vision, Storytelling
+
+---
+
+# 📬 Contact Me
+
+📧 sudhanshu.mba@ucw.ca  
+🔗 [LinkedIn](https://www.linkedin.com/in/sudhanshumehta)
+
+> _“Creativity may open doors, but strategy keeps them open.”_  
+— Sudhanshu Mehta
+
+---
