@@ -3,7 +3,7 @@ title: "Sudhanshu Mehta – MBA Portfolio"
 format: html
 page-layout: full
 ---
-
+<img src="headshot.jpg" alt="Headshot of Sudhanshu Mehta" width="150" style="border-radius: 12px;" />
 ![Professional Headshot](headshot.jpg)
 
 # 👋 About Me
